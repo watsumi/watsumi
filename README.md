@@ -6,7 +6,8 @@
 [README](https://github.com/watsumi/sake_gram/blob/main/README.md)
 
 ## ポートフォリオサイト
-### [SAKE_NOMY](https://user-images.githubusercontent.com/67275879/115115842-90211300-9fd1-11eb-80be-f85f341a3bc0.png)
+### [SAKE_NOMY](https://watsumi.github.io/sake_nomy/)
+![sakenomy_ogp](https://user-images.githubusercontent.com/67275879/115115842-90211300-9fd1-11eb-80be-f85f341a3bc0.png)
 
 ## 技術ブログ
 ### [Wataruの技術備忘録](https://bon-voyage23.hatenablog.com/)
