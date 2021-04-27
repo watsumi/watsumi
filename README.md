@@ -1,4 +1,6 @@
-[![](https://raw.githubusercontent.com/watsumi/watsumi/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/watsumi/watsumi/main/profile-summary-card-output/nord_bright/0-profile-details.svg)
+
+![](https://raw.githubusercontent.com/watsumi/watsumi/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)
 
 ## 個人開発
 ### [性格診断でお酒と出会う「さけぐらむ」](https://sg.sakegram.site)
