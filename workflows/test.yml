@@ -1,23 +1,22 @@
-name: Example Test Action
-
-# このワークフローは、別のリポジトリでこの Action をテストする際の参考例です
-# 別のリポジトリのワークフローで使用してください
+name: Test Repository Fetch Action
 
 on:
   workflow_dispatch:
+  # schedule:
+  #   - cron: '0 0 * * *' # 毎日実行（オプション）
 
 jobs:
-  test-fetch-repositories:
+  test:
     runs-on: ubuntu-latest
     permissions:
       contents: read
     steps:
-      - name: Checkout this repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch repositories using this action
+      - name: Fetch repositories
         id: fetch_repos
-        uses: ./
+        uses: watsumi/update-gh-profile@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -28,4 +27,3 @@ jobs:
         run: |
           echo "✅ リポジトリ取得が完了しました"
           echo "取得数: ${{ steps.fetch_repos.outputs.repository_count }}"
-
