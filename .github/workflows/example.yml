@@ -1,0 +1,31 @@
+name: Test Repository Fetch Action
+
+on:
+  workflow_dispatch: # 手動実行
+  # schedule:
+  #   - cron: '0 0 * * *' # 毎日実行（オプション）
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # この Action を使用
+      - name: Fetch repositories
+        id: fetch_repos
+        uses: watsumi/update-gh-profile@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          username: ${{ github.repository_owner }}
+          exclude_forks: "true"
+
+      # 結果を表示
+      - name: Display result
+        run: |
+          echo "✅ リポジトリ取得が完了しました"
+          echo "取得数: ${{ steps.fetch_repos.outputs.repository_count }}"
