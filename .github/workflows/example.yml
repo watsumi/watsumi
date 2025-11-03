@@ -19,7 +19,8 @@ jobs:
         id: fetch_repos
         uses: watsumi/update-gh-profile@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN_READ: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN_WRITE: ${{ secrets.GH_WRITE_TOKEN }}
         with:
           username: ${{ github.repository_owner }}
           exclude_forks: "true"
