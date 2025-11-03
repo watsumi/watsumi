@@ -60,6 +60,6 @@
   <text x="305" y="127" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle" opacity="0.7">Commits</text>
   <rect x="371" y="40" width="102" height="80" fill="url(#cardGrad3)" rx="8" stroke="#a371f7" stroke-width="1.5" opacity="0.8" filter="url(#cardShadow)"/>
   <text x="422" y="62" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif" font-size="34" text-anchor="middle" filter="url(#iconShadow)">🔀</text>
-  <text x="422" y="107" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="600" fill="#c9d1d9" text-anchor="middle">0</text>
+  <text x="422" y="107" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="600" fill="#c9d1d9" text-anchor="middle">221</text>
   <text x="422" y="127" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle" opacity="0.7">PRs</text>
 </svg>
