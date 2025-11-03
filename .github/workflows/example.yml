@@ -1,32 +1,23 @@
-name: Test Repository Fetch Action
+name: Update GitHub Profile
 
 on:
-  workflow_dispatch: # 手動実行
   # schedule:
-  #   - cron: '0 0 * * *' # 毎日実行（オプション）
+    # 毎日 00:00 UTC（日本時間 09:00）に実行
+    # - cron: "0 0 * * *"
+  workflow_dispatch: # 手動実行も可能
+
+permissions:
+  contents: write # README.md を更新するために必要
 
 jobs:
-  test:
+  update-profile:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # この Action を使用
-      - name: Fetch repositories
-        id: fetch_repos
+      - name: Update GitHub Profile
         uses: watsumi/update-gh-profile@main
-        env:
-          GITHUB_TOKEN_READ: ${{ secrets.GH_TOKEN }}
-          GITHUB_TOKEN_WRITE: ${{ secrets.GH_WRITE_TOKEN }}
         with:
-          username: ${{ github.repository_owner }}
+          github_token_read: ${{ secrets.GH_TOKEN }}
           exclude_forks: "true"
-
-      # 結果を表示
-      - name: Display result
-        run: |
-          echo "✅ リポジトリ取得が完了しました"
-          echo "取得数: ${{ steps.fetch_repos.outputs.repository_count }}"
