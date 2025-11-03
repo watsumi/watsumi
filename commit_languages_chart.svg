@@ -36,24 +36,20 @@
 
   <rect width="495" height="280" fill="#0d1117" rx="10" stroke="#30363d" stroke-width="1"/>
   <text x="247" y="37" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#58a6ff" text-anchor="middle">💻 Top 5 Languages by Commit</text>
-  <text x="20" y="75" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">Makefile</text>
+  <text x="20" y="75" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">Go</text>
   <rect x="140" y="58" width="255" height="30" fill="#161b22" rx="6" stroke="#30363d" stroke-width="1"/>
   <rect x="140" y="58" width="255" height="30" fill="url(#grad0)" rx="6" filter="url(#barShadow)" opacity="0.95"/>
   <text x="405" y="75" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">100 files</text>
-  <text x="20" y="120" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">Go</text>
+  <text x="20" y="120" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">Ruby</text>
   <rect x="140" y="103" width="255" height="30" fill="#161b22" rx="6" stroke="#30363d" stroke-width="1"/>
-  <rect x="140" y="103" width="255" height="30" fill="url(#grad1)" rx="6" filter="url(#barShadow)" opacity="0.95"/>
-  <text x="405" y="120" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">100 files</text>
-  <text x="20" y="165" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">Ruby</text>
+  <rect x="140" y="103" width="198" height="30" fill="url(#grad1)" rx="6" filter="url(#barShadow)" opacity="0.95"/>
+  <text x="405" y="120" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">78 files</text>
+  <text x="20" y="165" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">TypeScript</text>
   <rect x="140" y="148" width="255" height="30" fill="#161b22" rx="6" stroke="#30363d" stroke-width="1"/>
-  <rect x="140" y="148" width="198" height="30" fill="url(#grad2)" rx="6" filter="url(#barShadow)" opacity="0.95"/>
-  <text x="405" y="165" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">78 files</text>
-  <text x="20" y="210" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">TypeScript</text>
+  <rect x="140" y="148" width="137" height="30" fill="url(#grad2)" rx="6" filter="url(#barShadow)" opacity="0.95"/>
+  <text x="405" y="165" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">54 files</text>
+  <text x="20" y="210" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">JavaScript</text>
   <rect x="140" y="193" width="255" height="30" fill="#161b22" rx="6" stroke="#30363d" stroke-width="1"/>
-  <rect x="140" y="193" width="137" height="30" fill="url(#grad3)" rx="6" filter="url(#barShadow)" opacity="0.95"/>
-  <text x="405" y="210" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">54 files</text>
-  <text x="20" y="255" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">JavaScript</text>
-  <rect x="140" y="238" width="255" height="30" fill="#161b22" rx="6" stroke="#30363d" stroke-width="1"/>
-  <rect x="140" y="238" width="73" height="30" fill="url(#grad4)" rx="6" filter="url(#barShadow)" opacity="0.95"/>
-  <text x="405" y="255" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">29 files</text>
+  <rect x="140" y="193" width="73" height="30" fill="url(#grad3)" rx="6" filter="url(#barShadow)" opacity="0.95"/>
+  <text x="405" y="210" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">29 files</text>
 </svg>
