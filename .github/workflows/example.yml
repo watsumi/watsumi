@@ -21,3 +21,4 @@ jobs:
         with:
           github_token: ${{ secrets.GH_TOKEN }}
           exclude_forks: "true"
+          exclude_languages: "HTML,CSS,JSON"
