@@ -21,9 +21,3 @@
 <!-- START_SUMMARY_STATS -->
 ![Summary Card](summary_card.svg)
 <!-- END_SUMMARY_STATS -->
-
-<!-- START_UPDATE_TIMESTAMP -->
-*最終更新: 2025-11-03T02:34:36Z*
-
-*最終更新: 2025-11-03T02:46:08Z*
-<!-- END_UPDATE_TIMESTAMP -->
