@@ -19,5 +19,5 @@ jobs:
       - name: Update GitHub Profile
         uses: watsumi/update-gh-profile@main
         with:
-          github_token_read: ${{ secrets.GH_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
           exclude_forks: "true"
