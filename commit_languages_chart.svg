@@ -44,16 +44,8 @@
   <rect x="140" y="103" width="255" height="30" fill="#161b22" rx="6" stroke="#30363d" stroke-width="1"/>
   <rect x="140" y="103" width="176" height="30" fill="url(#grad1)" rx="6" filter="url(#barShadow)" opacity="0.95"/>
   <text x="405" y="120" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">54 files</text>
-  <text x="20" y="165" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">CSS</text>
+  <text x="20" y="165" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">JavaScript</text>
   <rect x="140" y="148" width="255" height="30" fill="#161b22" rx="6" stroke="#30363d" stroke-width="1"/>
-  <rect x="140" y="148" width="170" height="30" fill="url(#grad2)" rx="6" filter="url(#barShadow)" opacity="0.95"/>
-  <text x="405" y="165" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">52 files</text>
-  <text x="20" y="210" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">HTML</text>
-  <rect x="140" y="193" width="255" height="30" fill="#161b22" rx="6" stroke="#30363d" stroke-width="1"/>
-  <rect x="140" y="193" width="124" height="30" fill="url(#grad3)" rx="6" filter="url(#barShadow)" opacity="0.95"/>
-  <text x="405" y="210" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">38 files</text>
-  <text x="20" y="255" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">JavaScript</text>
-  <rect x="140" y="238" width="255" height="30" fill="#161b22" rx="6" stroke="#30363d" stroke-width="1"/>
-  <rect x="140" y="238" width="94" height="30" fill="url(#grad4)" rx="6" filter="url(#barShadow)" opacity="0.95"/>
-  <text x="405" y="255" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">29 files</text>
+  <rect x="140" y="148" width="94" height="30" fill="url(#grad2)" rx="6" filter="url(#barShadow)" opacity="0.95"/>
+  <text x="405" y="165" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">29 files</text>
 </svg>
