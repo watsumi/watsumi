@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="280" viewBox="0 0 495 280">
+  <defs>
+    <linearGradient id="grad0" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#58a6ff;stop-opacity:0.7" />
+    </linearGradient>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1f6feb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1f6feb;stop-opacity:0.7" />
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#6e40c9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6e40c9;stop-opacity:0.7" />
+    </linearGradient>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff7b72;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff7b72;stop-opacity:0.7" />
+    </linearGradient>
+    <linearGradient id="grad4" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f85149;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f85149;stop-opacity:0.7" />
+    </linearGradient>
+  </defs>
+
+  <rect width="495" height="280" fill="#0d1117" rx="8"/>
+  <text x="247" y="35" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="#c9d1d9" text-anchor="middle">コミットごとの使用言語Top5</text>
+  <text x="20" y="75" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">Ruby</text>
+  <rect x="140" y="58" width="255" height="30" fill="#21262d" rx="4"/>
+  <rect x="140" y="58" width="255" height="30" fill="url(#grad0)" rx="4"/>
+  <text x="405" y="75" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">39 ファイル</text>
+  <text x="20" y="120" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">TypeScript</text>
+  <rect x="140" y="103" width="255" height="30" fill="#21262d" rx="4"/>
+  <rect x="140" y="103" width="176" height="30" fill="url(#grad1)" rx="4"/>
+  <text x="405" y="120" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">27 ファイル</text>
+</svg>

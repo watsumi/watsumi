@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="270" viewBox="0 0 495 270">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1f6feb;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <rect width="495" height="270" fill="#0d1117" rx="8"/>
+  <text x="247" y="28" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="#c9d1d9">言語ランキング</text>
+  <text x="15" y="50" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9" font-weight="600">1.</text>
+  <text x="40" y="50" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">CSS</text>
+  <rect x="140" y="38" width="345" height="18" fill="#21262d" rx="4"/>
+  <rect x="140" y="38" width="415" height="18" fill="url(#grad)" rx="4"/>
+  <text x="495" y="50" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">29.6%</text>
+  <text x="15" y="80" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9" font-weight="600">2.</text>
+  <text x="40" y="80" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">JavaScript</text>
+  <rect x="140" y="68" width="345" height="18" fill="#21262d" rx="4"/>
+  <rect x="140" y="68" width="306" height="18" fill="url(#grad)" rx="4"/>
+  <text x="495" y="80" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">21.8%</text>
+  <text x="15" y="110" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9" font-weight="600">3.</text>
+  <text x="40" y="110" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">Ruby</text>
+  <rect x="140" y="98" width="345" height="18" fill="#21262d" rx="4"/>
+  <rect x="140" y="98" width="263" height="18" fill="url(#grad)" rx="4"/>
+  <text x="495" y="110" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">18.8%</text>
+  <text x="15" y="140" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9" font-weight="600">4.</text>
+  <text x="40" y="140" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">HTML</text>
+  <rect x="140" y="128" width="345" height="18" fill="#21262d" rx="4"/>
+  <rect x="140" y="128" width="235" height="18" fill="url(#grad)" rx="4"/>
+  <text x="495" y="140" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">16.8%</text>
+  <text x="15" y="170" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9" font-weight="600">5.</text>
+  <text x="40" y="170" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">TypeScript</text>
+  <rect x="140" y="158" width="345" height="18" fill="#21262d" rx="4"/>
+  <rect x="140" y="158" width="40" height="18" fill="url(#grad)" rx="4"/>
+  <text x="495" y="170" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">2.9%</text>
+  <text x="15" y="200" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9" font-weight="600">6.</text>
+  <text x="40" y="200" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">Python</text>
+  <rect x="140" y="188" width="345" height="18" fill="#21262d" rx="4"/>
+  <rect x="140" y="188" width="24" height="18" fill="url(#grad)" rx="4"/>
+  <text x="495" y="200" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">1.8%</text>
+  <text x="15" y="230" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9" font-weight="600">7.</text>
+  <text x="40" y="230" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">Vue</text>
+  <rect x="140" y="218" width="345" height="18" fill="#21262d" rx="4"/>
+  <rect x="140" y="218" width="23" height="18" fill="url(#grad)" rx="4"/>
+  <text x="495" y="230" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">1.7%</text>
+</svg>
