@@ -16,24 +16,24 @@
 
   <rect width="495" height="320" fill="#0d1117" rx="10" stroke="#30363d" stroke-width="1"/>
   <text x="247" y="32" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#58a6ff" text-anchor="middle" filter="url(#shadow)">🗂️ Language Distribution</text>
-  <path d="M 371.2 170.0 L 371.2 80.0 A 90.0 90.0 0 0 1 420.8 245.1 Z" fill="#58a6ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 420.8 245.1 A 90.0 90.0 0 0 1 281.4 165.8 Z" fill="#7c3aed" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 281.4 165.8 A 90.0 90.0 0 0 1 287.7 136.4 Z" fill="#1f6feb" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 287.7 136.4 A 90.0 90.0 0 0 1 296.4 120.0 Z" fill="#56d364" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 296.4 120.0 A 90.0 90.0 0 0 1 307.5 106.5 Z" fill="#ff7b72" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 307.5 106.5 A 90.0 90.0 0 0 1 314.9 99.8 Z" fill="#a5a5ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 314.9 99.8 A 90.0 90.0 0 0 1 322.7 94.2 Z" fill="#f85149" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 322.7 94.2 A 90.0 90.0 0 0 1 327.7 91.2 Z" fill="#79c0ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 327.7 91.2 A 90.0 90.0 0 0 1 332.9 88.6 Z" fill="#ffa657" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 332.9 88.6 A 90.0 90.0 0 0 1 336.7 86.9 Z" fill="#ffd33d" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 336.7 86.9 A 90.0 90.0 0 0 1 340.5 85.4 Z" fill="#9ecbff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 340.5 85.4 A 90.0 90.0 0 0 1 344.1 84.2 Z" fill="#bf87ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 344.1 84.2 A 90.0 90.0 0 0 1 347.6 83.2 Z" fill="#ffbe6b" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 347.6 83.2 A 90.0 90.0 0 0 1 350.9 82.3 Z" fill="#85e89d" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 350.9 82.3 A 90.0 90.0 0 0 1 353.6 81.7 Z" fill="#ffab70" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 353.6 81.7 A 90.0 90.0 0 0 1 356.1 81.3 Z" fill="#58a6ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 356.1 81.3 A 90.0 90.0 0 0 1 358.3 80.9 Z" fill="#7c3aed" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 358.3 80.9 A 90.0 90.0 0 0 1 360.3 80.7 Z" fill="#1f6feb" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 371.2 80.0 A 90.0 90.0 0 0 1 421.1 244.9 Z" fill="#58a6ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 421.1 244.9 A 90.0 90.0 0 0 1 281.3 166.4 Z" fill="#7c3aed" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 281.3 166.4 A 90.0 90.0 0 0 1 287.5 137.1 Z" fill="#1f6feb" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 287.5 137.1 A 90.0 90.0 0 0 1 296.0 120.6 Z" fill="#56d364" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 296.0 120.6 A 90.0 90.0 0 0 1 306.9 107.0 Z" fill="#ff7b72" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 306.9 107.0 A 90.0 90.0 0 0 1 314.3 100.3 Z" fill="#a5a5ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 314.3 100.3 A 90.0 90.0 0 0 1 322.0 94.7 Z" fill="#f85149" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 322.0 94.7 A 90.0 90.0 0 0 1 327.0 91.6 Z" fill="#79c0ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 327.0 91.6 A 90.0 90.0 0 0 1 332.1 89.0 Z" fill="#ffa657" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 332.1 89.0 A 90.0 90.0 0 0 1 336.0 87.2 Z" fill="#ffd33d" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 336.0 87.2 A 90.0 90.0 0 0 1 339.7 85.7 Z" fill="#9ecbff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 339.7 85.7 A 90.0 90.0 0 0 1 343.3 84.5 Z" fill="#bf87ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 343.3 84.5 A 90.0 90.0 0 0 1 346.7 83.4 Z" fill="#ffbe6b" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 346.7 83.4 A 90.0 90.0 0 0 1 350.1 82.5 Z" fill="#85e89d" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 350.1 82.5 A 90.0 90.0 0 0 1 352.9 81.9 Z" fill="#ffab70" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 352.9 81.9 A 90.0 90.0 0 0 1 355.7 81.4 Z" fill="#58a6ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 355.7 81.4 A 90.0 90.0 0 0 1 358.2 81.0 Z" fill="#7c3aed" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 358.2 81.0 A 90.0 90.0 0 0 1 360.3 80.7 Z" fill="#1f6feb" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
   <path d="M 371.2 170.0 L 360.3 80.7 A 90.0 90.0 0 0 1 362.3 80.4 Z" fill="#56d364" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
   <path d="M 371.2 170.0 L 362.3 80.4 A 90.0 90.0 0 0 1 363.7 80.3 Z" fill="#ff7b72" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
   <path d="M 371.2 170.0 L 363.7 80.3 A 90.0 90.0 0 0 1 365.0 80.2 Z" fill="#a5a5ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
@@ -85,7 +85,7 @@
   <text x="48" y="351" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#c9d1d9">SCSS</text>
   <text x="242" y="351" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#58a6ff" font-weight="600" text-anchor="end">0.6%</text>
   <rect x="30" y="365" width="12" height="12" fill="#ffab70" rx="2"/>
-  <text x="48" y="373" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#c9d1d9">Haml</text>
+  <text x="48" y="373" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#c9d1d9">Lua</text>
   <text x="242" y="373" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#58a6ff" font-weight="600" text-anchor="end">0.5%</text>
   <text x="30" y="395" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10" fill="#c9d1d9" font-style="italic">+21 more languages</text>
 </svg>
