@@ -552,10 +552,10 @@
   <rect x="429.6" y="250.0" width="0.9" height="3" fill="#79c0ff" rx="1" opacity="0.6"/>
   <rect x="431.0" y="220.0" width="0.9" height="40.0" fill="url(#barGrad)" rx="4" filter="url(#barGlow)" opacity="0.9"/>
   <rect x="431.0" y="220.0" width="0.9" height="3" fill="#79c0ff" rx="1" opacity="0.6"/>
-  <rect x="432.4" y="130.0" width="0.9" height="130.0" fill="url(#barGrad)" rx="4" filter="url(#barGlow)" opacity="0.9"/>
-  <rect x="432.4" y="130.0" width="0.9" height="3" fill="#79c0ff" rx="1" opacity="0.6"/>
-  <rect x="433.9" y="220.0" width="0.9" height="40.0" fill="url(#barGrad)" rx="4" filter="url(#barGlow)" opacity="0.9"/>
-  <rect x="433.9" y="220.0" width="0.9" height="3" fill="#79c0ff" rx="1" opacity="0.6"/>
+  <rect x="432.4" y="160.0" width="0.9" height="100.0" fill="url(#barGrad)" rx="4" filter="url(#barGlow)" opacity="0.9"/>
+  <rect x="432.4" y="160.0" width="0.9" height="3" fill="#79c0ff" rx="1" opacity="0.6"/>
+  <rect x="433.9" y="190.0" width="0.9" height="70.0" fill="url(#barGrad)" rx="4" filter="url(#barGlow)" opacity="0.9"/>
+  <rect x="433.9" y="190.0" width="0.9" height="3" fill="#79c0ff" rx="1" opacity="0.6"/>
   <text x="60.7" y="280" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">01/09</text>
   <text x="123.2" y="280" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">02/27</text>
   <text x="185.7" y="280" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">08/22</text>
