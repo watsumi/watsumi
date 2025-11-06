@@ -20,8 +20,8 @@
   <rect x="21.0" y="143.6" width="17.0" height="36.4" fill="#79c0ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
   <text x="29.5" y="195" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">00:00</text>
   <text x="29.5" y="140.6" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">8</text>
-  <rect x="40.0" y="152.7" width="17.0" height="27.3" fill="#79c0ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
-  <text x="48.4" y="149.7" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">6</text>
+  <rect x="40.0" y="148.2" width="17.0" height="31.8" fill="#79c0ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
+  <text x="48.4" y="145.2" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">7</text>
   <rect x="58.9" y="102.7" width="17.0" height="77.3" fill="#388bfd" rx="3" filter="url(#barGlow)" opacity="0.9"/>
   <text x="67.4" y="99.7" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">17</text>
   <rect x="77.9" y="139.1" width="17.0" height="40.9" fill="#58a6ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
@@ -36,8 +36,8 @@
   <rect x="153.7" y="139.1" width="17.0" height="40.9" fill="#58a6ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
   <text x="162.2" y="136.1" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">9</text>
   <rect x="172.7" y="180.0" width="17.0" height="0.0" fill="#21262d" rx="3" filter="url(#barGlow)" opacity="0.9"/>
-  <rect x="191.6" y="152.7" width="17.0" height="27.3" fill="#79c0ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
-  <text x="200.1" y="149.7" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">6</text>
+  <rect x="191.6" y="157.3" width="17.0" height="22.7" fill="#79c0ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
+  <text x="200.1" y="154.3" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">5</text>
   <rect x="210.6" y="134.5" width="17.0" height="45.5" fill="#58a6ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
   <text x="219.1" y="131.5" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">10</text>
   <rect x="229.5" y="157.3" width="17.0" height="22.7" fill="#79c0ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
@@ -45,8 +45,8 @@
   <rect x="248.5" y="125.5" width="17.0" height="54.5" fill="#58a6ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
   <text x="257.0" y="195" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">12:00</text>
   <text x="257.0" y="122.5" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">12</text>
-  <rect x="267.5" y="139.1" width="17.0" height="40.9" fill="#58a6ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
-  <text x="275.9" y="136.1" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">9</text>
+  <rect x="267.5" y="134.5" width="17.0" height="45.5" fill="#58a6ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
+  <text x="275.9" y="131.5" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">10</text>
   <rect x="286.4" y="170.9" width="17.0" height="9.1" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
   <text x="294.9" y="167.9" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">2</text>
   <rect x="305.4" y="166.4" width="17.0" height="13.6" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
