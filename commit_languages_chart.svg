@@ -42,8 +42,8 @@
   <text x="405" y="75" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">100 files</text>
   <text x="20" y="120" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">Ruby</text>
   <rect x="140" y="103" width="255" height="30" fill="#161b22" rx="6" stroke="#30363d" stroke-width="1"/>
-  <rect x="140" y="103" width="209" height="30" fill="url(#grad1)" rx="6" filter="url(#barShadow)" opacity="0.95"/>
-  <text x="405" y="120" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">82 files</text>
+  <rect x="140" y="103" width="219" height="30" fill="url(#grad1)" rx="6" filter="url(#barShadow)" opacity="0.95"/>
+  <text x="405" y="120" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="12" fill="#c9d1d9">86 files</text>
   <text x="20" y="165" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="14" fill="#c9d1d9">TypeScript</text>
   <rect x="140" y="148" width="255" height="30" fill="#161b22" rx="6" stroke="#30363d" stroke-width="1"/>
   <rect x="140" y="148" width="137" height="30" fill="url(#grad2)" rx="6" filter="url(#barShadow)" opacity="0.95"/>
