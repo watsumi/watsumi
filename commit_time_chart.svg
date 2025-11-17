@@ -20,8 +20,8 @@
   <rect x="21.0" y="143.6" width="17.0" height="36.4" fill="#79c0ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
   <text x="29.5" y="195" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">00:00</text>
   <text x="29.5" y="140.6" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">8</text>
-  <rect x="40.0" y="102.7" width="17.0" height="77.3" fill="#388bfd" rx="3" filter="url(#barGlow)" opacity="0.9"/>
-  <text x="48.4" y="99.7" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">17</text>
+  <rect x="40.0" y="98.2" width="17.0" height="81.8" fill="#1f6feb" rx="3" filter="url(#barGlow)" opacity="0.9"/>
+  <text x="48.4" y="95.2" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">18</text>
   <rect x="58.9" y="102.7" width="17.0" height="77.3" fill="#388bfd" rx="3" filter="url(#barGlow)" opacity="0.9"/>
   <text x="67.4" y="99.7" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">17</text>
   <rect x="77.9" y="130.0" width="17.0" height="50.0" fill="#58a6ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
