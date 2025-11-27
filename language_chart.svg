@@ -16,10 +16,10 @@
 
   <rect width="495" height="320" fill="#0d1117" rx="10" stroke="#30363d" stroke-width="1"/>
   <text x="247" y="32" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#58a6ff" text-anchor="middle" filter="url(#shadow)">🗂️ Language Distribution</text>
-  <path d="M 371.2 170.0 L 371.2 80.0 A 90.0 90.0 0 0 1 421.7 244.5 Z" fill="#58a6ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 421.7 244.5 A 90.0 90.0 0 0 1 281.3 167.9 Z" fill="#7c3aed" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 281.3 167.9 A 90.0 90.0 0 0 1 287.7 136.4 Z" fill="#1f6feb" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 287.7 136.4 A 90.0 90.0 0 0 1 296.4 120.1 Z" fill="#56d364" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 371.2 80.0 A 90.0 90.0 0 0 1 421.8 244.5 Z" fill="#58a6ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 421.8 244.5 A 90.0 90.0 0 0 1 281.3 167.9 Z" fill="#7c3aed" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 281.3 167.9 A 90.0 90.0 0 0 1 287.7 136.5 Z" fill="#1f6feb" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 287.7 136.5 A 90.0 90.0 0 0 1 296.4 120.1 Z" fill="#56d364" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
   <path d="M 371.2 170.0 L 296.4 120.1 A 90.0 90.0 0 0 1 307.3 106.6 Z" fill="#ff7b72" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
   <path d="M 371.2 170.0 L 307.3 106.6 A 90.0 90.0 0 0 1 314.7 100.0 Z" fill="#a5a5ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
   <path d="M 371.2 170.0 L 314.7 100.0 A 90.0 90.0 0 0 1 322.4 94.4 Z" fill="#f85149" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
