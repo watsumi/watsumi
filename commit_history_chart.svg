@@ -578,15 +578,15 @@
   <rect x="429.9" y="250.0" width="0.8" height="3" fill="#79c0ff" rx="1" opacity="0.6"/>
   <rect x="431.2" y="250.0" width="0.8" height="10.0" fill="url(#barGrad)" rx="4" filter="url(#barGlow)" opacity="0.9"/>
   <rect x="431.2" y="250.0" width="0.8" height="3" fill="#79c0ff" rx="1" opacity="0.6"/>
-  <rect x="432.6" y="250.0" width="0.8" height="10.0" fill="url(#barGrad)" rx="4" filter="url(#barGlow)" opacity="0.9"/>
-  <rect x="432.6" y="250.0" width="0.8" height="3" fill="#79c0ff" rx="1" opacity="0.6"/>
-  <rect x="433.9" y="230.0" width="0.8" height="30.0" fill="url(#barGrad)" rx="4" filter="url(#barGlow)" opacity="0.9"/>
-  <rect x="433.9" y="230.0" width="0.8" height="3" fill="#79c0ff" rx="1" opacity="0.6"/>
+  <rect x="432.6" y="230.0" width="0.8" height="30.0" fill="url(#barGrad)" rx="4" filter="url(#barGlow)" opacity="0.9"/>
+  <rect x="432.6" y="230.0" width="0.8" height="3" fill="#79c0ff" rx="1" opacity="0.6"/>
+  <rect x="433.9" y="250.0" width="0.8" height="10.0" fill="url(#barGrad)" rx="4" filter="url(#barGlow)" opacity="0.9"/>
+  <rect x="433.9" y="250.0" width="0.8" height="3" fill="#79c0ff" rx="1" opacity="0.6"/>
   <text x="60.7" y="280" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">01/09</text>
   <text x="123.0" y="280" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">03/02</text>
   <text x="185.2" y="280" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">09/11</text>
   <text x="247.5" y="280" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">07/04</text>
   <text x="309.8" y="280" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">07/09</text>
   <text x="372.0" y="280" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">02/26</text>
-  <text x="434.3" y="280" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">12/03</text>
+  <text x="434.3" y="280" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">12/04</text>
 </svg>
