@@ -17,45 +17,45 @@
 
   <rect width="495" height="200" fill="#0d1117" rx="10" stroke="#30363d" stroke-width="1"/>
   <text x="247" y="37" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#58a6ff" text-anchor="middle">🕐 Commit Time Distribution (UTC)</text>
-  <rect x="21.0" y="156.0" width="17.0" height="24.0" fill="#79c0ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
+  <rect x="21.0" y="154.5" width="17.0" height="25.5" fill="#79c0ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
   <text x="29.5" y="195" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">00:00</text>
-  <text x="29.5" y="153.0" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">12</text>
+  <text x="29.5" y="151.5" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">13</text>
   <rect x="40.0" y="80.0" width="17.0" height="100.0" fill="#1f6feb" rx="3" filter="url(#barGlow)" opacity="0.9"/>
-  <text x="48.4" y="77.0" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">50</text>
-  <rect x="58.9" y="150.0" width="17.0" height="30.0" fill="#79c0ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
-  <text x="67.4" y="147.0" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">15</text>
-  <rect x="77.9" y="160.0" width="17.0" height="20.0" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
-  <text x="86.4" y="157.0" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">10</text>
-  <rect x="96.8" y="174.0" width="17.0" height="6.0" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
-  <text x="105.3" y="171.0" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">3</text>
-  <rect x="115.8" y="170.0" width="17.0" height="10.0" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
-  <text x="124.3" y="167.0" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">5</text>
-  <rect x="134.8" y="152.0" width="17.0" height="28.0" fill="#79c0ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
+  <text x="48.4" y="77.0" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">51</text>
+  <rect x="58.9" y="150.6" width="17.0" height="29.4" fill="#79c0ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
+  <text x="67.4" y="147.6" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">15</text>
+  <rect x="77.9" y="160.4" width="17.0" height="19.6" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
+  <text x="86.4" y="157.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">10</text>
+  <rect x="96.8" y="174.1" width="17.0" height="5.9" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
+  <text x="105.3" y="171.1" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">3</text>
+  <rect x="115.8" y="170.2" width="17.0" height="9.8" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
+  <text x="124.3" y="167.2" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">5</text>
+  <rect x="134.8" y="152.5" width="17.0" height="27.5" fill="#79c0ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
   <text x="143.2" y="195" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">06:00</text>
-  <text x="143.2" y="149.0" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">14</text>
-  <rect x="153.7" y="164.0" width="17.0" height="16.0" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
-  <text x="162.2" y="161.0" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">8</text>
+  <text x="143.2" y="149.5" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">14</text>
+  <rect x="153.7" y="166.3" width="17.0" height="13.7" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
+  <text x="162.2" y="163.3" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">7</text>
   <rect x="172.7" y="175.0" width="17.0" height="5.0" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
   <text x="181.1" y="172.0" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">2</text>
-  <rect x="191.6" y="170.0" width="17.0" height="10.0" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
-  <text x="200.1" y="167.0" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">5</text>
-  <rect x="210.6" y="160.0" width="17.0" height="20.0" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
-  <text x="219.1" y="157.0" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">10</text>
-  <rect x="229.5" y="170.0" width="17.0" height="10.0" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
-  <text x="238.0" y="167.0" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">5</text>
-  <rect x="248.5" y="156.0" width="17.0" height="24.0" fill="#79c0ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
+  <rect x="191.6" y="170.2" width="17.0" height="9.8" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
+  <text x="200.1" y="167.2" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">5</text>
+  <rect x="210.6" y="160.4" width="17.0" height="19.6" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
+  <text x="219.1" y="157.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">10</text>
+  <rect x="229.5" y="170.2" width="17.0" height="9.8" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
+  <text x="238.0" y="167.2" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">5</text>
+  <rect x="248.5" y="156.5" width="17.0" height="23.5" fill="#79c0ff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
   <text x="257.0" y="195" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">12:00</text>
-  <text x="257.0" y="153.0" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">12</text>
-  <rect x="267.5" y="162.0" width="17.0" height="18.0" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
-  <text x="275.9" y="159.0" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">9</text>
+  <text x="257.0" y="153.5" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">12</text>
+  <rect x="267.5" y="162.4" width="17.0" height="17.6" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
+  <text x="275.9" y="159.4" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">9</text>
   <rect x="286.4" y="175.0" width="17.0" height="5.0" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
   <text x="294.9" y="172.0" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">2</text>
-  <rect x="305.4" y="174.0" width="17.0" height="6.0" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
-  <text x="313.9" y="171.0" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">3</text>
+  <rect x="305.4" y="174.1" width="17.0" height="5.9" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
+  <text x="313.9" y="171.1" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">3</text>
   <rect x="324.3" y="175.0" width="17.0" height="5.0" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
   <text x="332.8" y="172.0" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">2</text>
-  <rect x="343.3" y="170.0" width="17.0" height="10.0" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
-  <text x="351.8" y="167.0" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">5</text>
+  <rect x="343.3" y="170.2" width="17.0" height="9.8" fill="#b1ddff" rx="3" filter="url(#barGlow)" opacity="0.9"/>
+  <text x="351.8" y="167.2" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="8" fill="#c9d1d9" text-anchor="middle" opacity="0.8">5</text>
   <rect x="362.2" y="180.0" width="17.0" height="0.0" fill="#21262d" rx="3" filter="url(#barGlow)" opacity="0.9"/>
   <text x="370.7" y="195" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10" fill="#c9d1d9" text-anchor="middle">18:00</text>
   <rect x="381.2" y="180.0" width="17.0" height="0.0" fill="#21262d" rx="3" filter="url(#barGlow)" opacity="0.9"/>
