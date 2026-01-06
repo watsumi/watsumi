@@ -16,39 +16,39 @@
 
   <rect width="495" height="320" fill="#0d1117" rx="10" stroke="#30363d" stroke-width="1"/>
   <text x="247" y="32" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" fill="#58a6ff" text-anchor="middle" filter="url(#shadow)">🗂️ Language Distribution</text>
-  <path d="M 371.2 170.0 L 371.2 80.0 A 90.0 90.0 0 0 1 390.8 257.8 Z" fill="#58a6ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 390.8 257.8 A 90.0 90.0 0 0 1 281.3 168.7 Z" fill="#7c3aed" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 281.3 168.7 A 90.0 90.0 0 0 1 288.9 133.7 Z" fill="#1f6feb" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 288.9 133.7 A 90.0 90.0 0 0 1 296.2 120.3 Z" fill="#56d364" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 296.2 120.3 A 90.0 90.0 0 0 1 305.1 109.0 Z" fill="#ff7b72" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 305.1 109.0 A 90.0 90.0 0 0 1 312.8 101.5 Z" fill="#a5a5ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 312.8 101.5 A 90.0 90.0 0 0 1 319.3 96.5 Z" fill="#f85149" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 319.3 96.5 A 90.0 90.0 0 0 1 325.9 92.3 Z" fill="#79c0ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 325.9 92.3 A 90.0 90.0 0 0 1 330.2 89.9 Z" fill="#ffa657" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 330.2 89.9 A 90.0 90.0 0 0 1 334.4 87.9 Z" fill="#ffd33d" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 334.4 87.9 A 90.0 90.0 0 0 1 338.1 86.3 Z" fill="#9ecbff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 338.1 86.3 A 90.0 90.0 0 0 1 341.8 84.9 Z" fill="#bf87ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 341.8 84.9 A 90.0 90.0 0 0 1 345.1 83.9 Z" fill="#ffbe6b" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 345.1 83.9 A 90.0 90.0 0 0 1 348.3 83.0 Z" fill="#85e89d" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 348.3 83.0 A 90.0 90.0 0 0 1 351.2 82.3 Z" fill="#ffab70" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 351.2 82.3 A 90.0 90.0 0 0 1 354.0 81.7 Z" fill="#58a6ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 354.0 81.7 A 90.0 90.0 0 0 1 356.3 81.3 Z" fill="#7c3aed" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 356.3 81.3 A 90.0 90.0 0 0 1 358.4 80.9 Z" fill="#1f6feb" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 371.2 80.0 A 90.0 90.0 0 0 1 391.7 257.6 Z" fill="#58a6ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 391.7 257.6 A 90.0 90.0 0 0 1 281.3 170.1 Z" fill="#7c3aed" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 281.3 170.1 A 90.0 90.0 0 0 1 288.3 135.1 Z" fill="#1f6feb" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 288.3 135.1 A 90.0 90.0 0 0 1 295.3 121.6 Z" fill="#56d364" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 295.3 121.6 A 90.0 90.0 0 0 1 303.9 110.3 Z" fill="#ff7b72" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 303.9 110.3 A 90.0 90.0 0 0 1 311.5 102.7 Z" fill="#a5a5ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 311.5 102.7 A 90.0 90.0 0 0 1 317.9 97.5 Z" fill="#f85149" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 317.9 97.5 A 90.0 90.0 0 0 1 324.6 93.0 Z" fill="#79c0ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 324.6 93.0 A 90.0 90.0 0 0 1 328.9 90.6 Z" fill="#ffa657" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 328.9 90.6 A 90.0 90.0 0 0 1 333.1 88.5 Z" fill="#ffd33d" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 333.1 88.5 A 90.0 90.0 0 0 1 336.7 86.9 Z" fill="#9ecbff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 336.7 86.9 A 90.0 90.0 0 0 1 340.4 85.5 Z" fill="#bf87ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 340.4 85.5 A 90.0 90.0 0 0 1 344.0 84.2 Z" fill="#ffbe6b" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 344.0 84.2 A 90.0 90.0 0 0 1 347.3 83.2 Z" fill="#85e89d" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 347.3 83.2 A 90.0 90.0 0 0 1 350.5 82.4 Z" fill="#ffab70" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 350.5 82.4 A 90.0 90.0 0 0 1 353.4 81.8 Z" fill="#58a6ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 353.4 81.8 A 90.0 90.0 0 0 1 356.2 81.3 Z" fill="#7c3aed" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 356.2 81.3 A 90.0 90.0 0 0 1 358.4 80.9 Z" fill="#1f6feb" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
   <path d="M 371.2 170.0 L 358.4 80.9 A 90.0 90.0 0 0 1 360.5 80.6 Z" fill="#56d364" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 360.5 80.6 A 90.0 90.0 0 0 1 362.2 80.5 Z" fill="#ff7b72" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 362.2 80.5 A 90.0 90.0 0 0 1 363.9 80.3 Z" fill="#a5a5ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 360.5 80.6 A 90.0 90.0 0 0 1 362.3 80.4 Z" fill="#ff7b72" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 362.3 80.4 A 90.0 90.0 0 0 1 363.9 80.3 Z" fill="#a5a5ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
   <path d="M 371.2 170.0 L 363.9 80.3 A 90.0 90.0 0 0 1 365.0 80.2 Z" fill="#f85149" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
   <path d="M 371.2 170.0 L 365.0 80.2 A 90.0 90.0 0 0 1 366.1 80.1 Z" fill="#79c0ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
   <path d="M 371.2 170.0 L 366.1 80.1 A 90.0 90.0 0 0 1 367.2 80.1 Z" fill="#ffa657" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
   <path d="M 371.2 170.0 L 367.2 80.1 A 90.0 90.0 0 0 1 368.2 80.1 Z" fill="#ffd33d" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
   <path d="M 371.2 170.0 L 368.2 80.1 A 90.0 90.0 0 0 1 369.2 80.0 Z" fill="#9ecbff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
-  <path d="M 371.2 170.0 L 369.2 80.0 A 90.0 90.0 0 0 1 369.9 80.0 Z" fill="#bf87ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
+  <path d="M 371.2 170.0 L 369.2 80.0 A 90.0 90.0 0 0 1 370.0 80.0 Z" fill="#bf87ff" stroke="#0d1117" stroke-width="2" opacity="0.9" filter="url(#shadow)"/>
   <rect x="30" y="57" width="12" height="12" fill="#58a6ff" rx="2"/>
   <text x="48" y="65" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#c9d1d9">JavaScript</text>
-  <text x="242" y="65" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#58a6ff" font-weight="600" text-anchor="end">46.5%</text>
+  <text x="242" y="65" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#58a6ff" font-weight="600" text-anchor="end">46.3%</text>
   <rect x="30" y="79" width="12" height="12" fill="#7c3aed" rx="2"/>
   <text x="48" y="87" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#c9d1d9">Ruby</text>
-  <text x="242" y="87" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#58a6ff" font-weight="600" text-anchor="end">28.7%</text>
+  <text x="242" y="87" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#58a6ff" font-weight="600" text-anchor="end">28.6%</text>
   <rect x="30" y="101" width="12" height="12" fill="#1f6feb" rx="2"/>
   <text x="48" y="109" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#c9d1d9">TypeScript</text>
   <text x="242" y="109" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#58a6ff" font-weight="600" text-anchor="end">6.4%</text>
@@ -63,7 +63,7 @@
   <text x="242" y="175" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#58a6ff" font-weight="600" text-anchor="end">1.9%</text>
   <rect x="30" y="189" width="12" height="12" fill="#f85149" rx="2"/>
   <text x="48" y="197" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#c9d1d9">Go</text>
-  <text x="242" y="197" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#58a6ff" font-weight="600" text-anchor="end">1.5%</text>
+  <text x="242" y="197" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#58a6ff" font-weight="600" text-anchor="end">1.4%</text>
   <rect x="30" y="211" width="12" height="12" fill="#79c0ff" rx="2"/>
   <text x="48" y="219" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#c9d1d9">Shell</text>
   <text x="242" y="219" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#58a6ff" font-weight="600" text-anchor="end">1.4%</text>
@@ -80,13 +80,13 @@
   <text x="48" y="307" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#c9d1d9">Swift</text>
   <text x="242" y="307" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#58a6ff" font-weight="600" text-anchor="end">0.7%</text>
   <rect x="30" y="321" width="12" height="12" fill="#ffbe6b" rx="2"/>
-  <text x="48" y="329" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#c9d1d9">C#</text>
-  <text x="242" y="329" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#58a6ff" font-weight="600" text-anchor="end">0.6%</text>
+  <text x="48" y="329" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#c9d1d9">Lua</text>
+  <text x="242" y="329" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#58a6ff" font-weight="600" text-anchor="end">0.7%</text>
   <rect x="30" y="343" width="12" height="12" fill="#85e89d" rx="2"/>
-  <text x="48" y="351" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#c9d1d9">C++</text>
+  <text x="48" y="351" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#c9d1d9">C#</text>
   <text x="242" y="351" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#58a6ff" font-weight="600" text-anchor="end">0.6%</text>
   <rect x="30" y="365" width="12" height="12" fill="#ffab70" rx="2"/>
-  <text x="48" y="373" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#c9d1d9">Dart</text>
-  <text x="242" y="373" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#58a6ff" font-weight="600" text-anchor="end">0.5%</text>
+  <text x="48" y="373" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#c9d1d9">C++</text>
+  <text x="242" y="373" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="11" fill="#58a6ff" font-weight="600" text-anchor="end">0.6%</text>
   <text x="30" y="395" font-family="Segoe UI, system-ui, -apple-system, sans-serif" font-size="10" fill="#c9d1d9" font-style="italic">+24 more languages</text>
 </svg>
